@@ -1,0 +1,16 @@
+{
+  "name": "18-forkify",
+  "version": "1.0.0",
+  "description": "this is just a simple recipe web-app for my practice.",
+  "scripts": {
+    "start": "parcel source_code/index.html",
+    "build": "parcel build source_code/index.html"
+  },
+  "author": "Umair Anwar",
+  "license": "ISC",
+  "dependencies": {
+    "fraction.js": "^5.3.4",
+    "mathjs": "^15.0.0",
+    "parcel": "^2.16.0"
+  }
+}
