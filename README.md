@@ -33,7 +33,7 @@ You must have [Node.js](https://nodejs.org/) and `npm` (Node Package Manager) in
 
 1.  **Clone the repository** to your local machine:
     ```sh
-    git clone https://github.com/umairsanai/Forkify.git)
+    git clone https://github.com/umairsanai/Forkify.git
     ```
 
 2.  **Navigate to the project directory**:
