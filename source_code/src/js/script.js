@@ -99,11 +99,7 @@ const addIngredient = function(quantity, unit, description) {
   recipeIngredientList.insertAdjacentHTML("beforeend",   
     `<li class="recipe__ingredient">
       <svg class="recipe__icon">
-<<<<<<< HEAD
         <use href="${icon}#icon-check"></use>
-=======
-        <use href="/icons.4c95ab8c.svg#icon-check"></use>
->>>>>>> b2209276c49dae5e3580717e4fa8f0b9c3d8c531
       </svg>
       <div class="recipe__quantity">${quantity}</div>
       <div class="recipe__description">
@@ -252,11 +248,7 @@ const updateBookmarks = function() {
   if (!bookmarks.length) {
     bookmarksList.innerHTML =   
     `<div class="message">
-<<<<<<< HEAD
       <div><svg><use href="${icon}#icon-smile"></use></svg></div>
-=======
-      <div><svg><use href="/icons.4c95ab8c.svg#icon-smile"></use></svg></div>
->>>>>>> b2209276c49dae5e3580717e4fa8f0b9c3d8c531
       <p>No bookmarks yet. Find a nice recipe and bookmark it :)</p>
     </div>`;
   }
